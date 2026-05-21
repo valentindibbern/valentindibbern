@@ -13,4 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Heading Image](ascii-fullname.png)
+![Heading Image](C:\Users\valen\Projects\Profile\valentindibbern\assets\img\ascii-fullname.png)
+
+ I am a Swiss IT student currently training to become an application developer.
+
+Languages and Technologies that I well:
+
+- Languages    
+  
+  - Java
+  
+  - Python
+  
+  - PHP
+  
+  - SQL
+  
+  - HTML/CSS
+
+- Technologies
+  
+  - Astro
