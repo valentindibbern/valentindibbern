@@ -6,7 +6,10 @@ Languages and Technologies that I well:
 
 - Languages
   - Java
+  - C#
   - Python
+  - JavaScript
+  - TypeScript
   - PHP
   - SQL
   - HTML/CSS
