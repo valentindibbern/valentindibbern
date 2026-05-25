@@ -2,7 +2,7 @@
 
 I am a Swiss IT student currently training to become an application developer.
 
-My main profile is on [Codeberg](https://codeberg.org/).
+My main profile is on [Codeberg](https://codeberg.org/valentindibbern).
 
 The reason for that are twofold: first and foremost do i want to support and use a opensource platform. Second, the recent problems GitHub is having.
 
