@@ -3,6 +3,7 @@
 I am a Swiss IT student currently training to become an application developer.
 
 My Codeberg profile can be found [here](https://codeberg.org/).
+
 For the moment, I the main host for my Repositories is GitHub, since most
 Integrations are incompatible with Codeberg. If GitHub gets truly unusable for
 someone with my workload, I will migrate to Codeberg or my own Forgejo Instance
