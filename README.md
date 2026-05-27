@@ -2,21 +2,36 @@
 
 I am a Swiss IT student currently training to become an application developer.
 
-My main profile is on [Codeberg](https://codeberg.org/).
+My Codeberg profile can be found [here](https://codeberg.org/).
+For the moment, I the main host for my Repositories is GitHub, since most
+Integrations are incompatible with Codeberg. If GitHub gets truly unusable for
+someone with my workload, I will migrate to Codeberg or my own Forgejo Instance
+to my main git host.
 
-The reason for that are twofold: first and foremost do i want to support and use a opensource platform. Second, the recent problems GitHub is having.
-
-Languages and Technologies that I well:
+Technologies that I am familiar with:
 
 - Languages
-  - Java
   - C#
-  - Python
-  - JavaScript
-  - TypeScript
-  - PHP
-  - SQL
   - HTML/CSS
+  - Java
+  - JavaScript
+  - Lua
+  - PHP
+  - Python
+  - SQL
+  - TypeScript
 
 - Technologies
   - Astro
+  - MySQL
+  - Numpy
+  - Tailwind CSS
+
+- Programms
+  - JetBrains IDEs
+  - Neovim
+  - SSMS
+  - VS Code
+  - Visual Studio
+  - Zed
+
