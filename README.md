@@ -2,7 +2,7 @@
 
 I am a Swiss IT student currently training to become an application developer.
 
-My GitHub profile can be found [here](https://github.com/valentindibbern).
+My GitHub profile can be found [here](https://github.com/valentindibbern).\n
 My Codeberg profile can be found [here](https://codeberg.org/valentindibbern).
 
 For the moment, the main host for my Repositories is GitHub, since most
